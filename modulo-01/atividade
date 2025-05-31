@@ -1,0 +1,106 @@
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a soma desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a soma desses dois números;
+    3. Mostre o resultado desta soma.
+
+ 3. Mostre o resultado desta soma.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a soma destes números e mostre o resultado.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a soma de 'a' mais 'b';
+    3. Mostre o resultado desta soma.
+
+Q4 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+calcule a subtração destes números e mostre o resultado.
+
+Passo a passo:
+(1) Entrada: dois números inteiros 'a' e 'b'.
+(2) Saída: Resultado da subtração de 'a' menos 'b'.
+(3) Processamento: cálculo da subtração de 'a' menos 'b'.
+
+1. Leia os valores de 'a' e 'b';
+2. O resultado será a subtração de 'a' menos 'b';
+3. Mostre o resultado desta subtração.
+
+Refinamento:
+
+Leia os valores de [a] e [b];
+
+O [resultado] = [a] - [b];
+
+Mostre o [resultado].
+
+Refinamento:
+
+Leia [a];           read [a]           scan [a]           in [a]
+
+Leia [b];           read [b]           scan [b]           in [b]
+
+[resultado] = [a] - [b];
+
+Mostre [resultado].  show [resultado]  print [resultado]  out [resultado]
+
+
+Q5 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+calcule a multiplicação destes números e mostre o resultado.
+
+Passo a passo:
+(1) Entrada: dois números inteiros 'a' e 'b'.
+(2) Saída: Resultado da multiplicação de 'a' vezes 'b'.
+(3) Processamento: cálculo da multiplicação de 'a' vezes 'b'.
+
+1. Leia os valores de 'a' e 'b';
+2. O resultado será a multiplicação de 'a' vezes 'b';
+3. Mostre o resultado desta multiplicação.
+
+Refinamento:
+
+Leia os valores de [a] e [b];
+
+O [resultado] = [a] * [b];
+
+Mostre o [resultado].
+
+Refinamento:
+
+Leia [a];           read [a]           scan [a]           in [a]
+
+Leia [b];           read [b]           scan [b]           in [b]
+
+[resultado] = [a] * [b];
+
+Mostre [resultado].  show [resultado]  print [resultado]  out [resultado]
+
+Q6 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+calcule a divisão destes números e mostre o resultado (se possível).
+
+Passo a passo:
+(1) Entrada: dois números inteiros 'a' e 'b'.
+(2) Saída: Resultado da divisão de 'a' por 'b' (se 'b' for diferente de zero).
+(3) Processamento: cálculo da divisão de 'a' por 'b'.
+
+Refinamento:
+
+Leia os valores de [a] e [b];
+
+O [resultado] = [a] / [b];
+
+Mostre o [resultado].
+
+Refinamento:
+
+Leia [a];           read [a]           scan [a]           in [a]
+
+Leia [b];           read [b]           scan [b]           in [b]
+
+[resultado] = [a] / [b];
+
+Mostre [resultado].  show [resultado]  print [resultado]  out [resultado]
